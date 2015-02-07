@@ -12,5 +12,5 @@ https://twitter.com/iojsDe
 - Jona H. ([@ix](https://github.com/ix))
 - Kern Tallett ([@KernTallett](https://github.com/KernTallett))
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
-
+- Denny Trebbin ([@fibric](https://github.com/fibric))
 
