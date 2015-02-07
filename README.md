@@ -14,3 +14,4 @@ https://twitter.com/iojsDe
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
 - Denny Trebbin ([@fibric](https://github.com/fibric))
 - Timo Weiß ([@timoweiss](https://github.com/timoweiss))
+- Manuel Bauer ([@ManuelBauer](https://github.com/ManuelBauer))
