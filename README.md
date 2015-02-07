@@ -10,5 +10,5 @@ https://twitter.com/iojsDe
 
 - Frederic Hemberger([@fhemberger](https://github.com/fhemberger))
 - Jona H. ([@ix](https://github.com/ix))
-- Kern Tallett ([@KernTallett](https://github.com/KernTallett)]
+- Kern Tallett ([@KernTallett](https://github.com/KernTallett))
 
