@@ -8,7 +8,7 @@ https://twitter.com/iojsDe
 
 ## iojs Deutsche Mitglieder
 
-- Frederic Hemberger[(@fhemberger)(https://github.com/fhemberger)]
-- Jona H. [(@ix)(https://github.com/ix)]
-- Kern Tallett ([@KernTallett(https://github.com/KernTallett)]
+- Frederic Hemberger([@fhemberger](https://github.com/fhemberger))
+- Jona H. ([@ix](https://github.com/ix))
+- Kern Tallett ([@KernTallett](https://github.com/KernTallett)]
 
