@@ -15,3 +15,4 @@ https://twitter.com/iojsDe
 - Denny Trebbin ([@fibric](https://github.com/fibric))
 - Timo Weiß ([@timoweiss](https://github.com/timoweiss))
 - Manuel Bauer ([@ManuelBauer](https://github.com/ManuelBauer))
+- Michael Knoch ([@michaelknoch](https://github.com/michaelknoch))
