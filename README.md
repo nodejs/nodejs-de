@@ -1,12 +1,12 @@
-# iojs Deutsche
+# iojs, in Deutsch!
 
 Deutsche Lokalisierung für [io.js](http://iojs.org)
 
-## iojs Deutsche auf Social Media
+## iojs, in Deutsch, auf Social Media
 
 https://twitter.com/iojsDe
 
-## iojs Deutsche Mitglieder
+## Deutsches iojs Team
 
 - Frederic Hemberger([@fhemberger](https://github.com/fhemberger))
 - Jona H. ([@ix](https://github.com/ix))
@@ -14,4 +14,3 @@ https://twitter.com/iojsDe
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
 - Denny Trebbin ([@fibric](https://github.com/fibric))
 - Timo Weiß ([@timoweiss](https://github.com/timoweiss))
-- Manuel Bauer ([@ManuelBauer](https://github.com/ManuelBauer))
