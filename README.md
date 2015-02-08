@@ -1,16 +1,18 @@
-# io.js, in Deutsch!
+# io.js, auf Deutsch!
 
 [![Join the chat at https://gitter.im/iojs/iojs-de](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-de?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Deutsche Lokalisierung für [io.js](http://iojs.org)
 
-## io.js, in Deutsch, auf Social Media
 
-https://twitter.com/iojsDe
+## Deutschsprachige News zu io.js
 
-## Deutsches io.js Team
+- [Twitter](https://twitter.com/iojsDe)
 
-- Frederic Hemberger([@fhemberger](https://github.com/fhemberger))
+
+## Deutsches io.js-Team
+
+- Frederic Hemberger ([@fhemberger](https://github.com/fhemberger))
 - Jona H. ([@ix](https://github.com/ix))
 - Kern Tallett ([@KernTallett](https://github.com/KernTallett))
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
