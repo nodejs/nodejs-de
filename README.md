@@ -7,7 +7,7 @@ Deutsche Lokalisierung für [io.js](http://iojs.org)
 
 ## Deutschsprachige News zu io.js
 
-- [Twitter](https://twitter.com/iojsDe)
+- [Twitter](https://twitter.com/iojs_de)
 
 
 ## Deutsches io.js-Team
