@@ -1,0 +1,13 @@
+# Site settings
+title: io.js auf Deutsch
+email: io.js.de@gmail.com
+description: >
+  Eine freundliche Abspaltung von Node.js, unter offener Aufsicht.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://iojs.github.io/iojs-de" # the base hostname & protocol for your site
+twitter_username: iojs_de
+github_username:  iojs
+github_repo: iojs-de
+
+# Build settings
+markdown: kramdown
