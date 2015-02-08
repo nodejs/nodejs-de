@@ -1,14 +1,14 @@
-# iojs, in Deutsch!
+# io.js, in Deutsch!
 
 [![Join the chat at https://gitter.im/iojs/iojs-de](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-de?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Deutsche Lokalisierung für [io.js](http://iojs.org)
 
-## iojs, in Deutsch, auf Social Media
+## io.js, in Deutsch, auf Social Media
 
 https://twitter.com/iojsDe
 
-## Deutsches iojs Team
+## Deutsches io.js Team
 
 - Frederic Hemberger([@fhemberger](https://github.com/fhemberger))
 - Jona H. ([@ix](https://github.com/ix))
