@@ -14,7 +14,7 @@ Deutsche Lokalisierung für [io.js](http://iojs.org)
 
 - Frederic Hemberger ([@fhemberger](https://github.com/fhemberger))
 - Jona H. ([@ix](https://github.com/ix))
-- Kern Tallett ([@KernTallett](https://github.com/KernTallett))
+- Kern Tallett ([@KernSTallett](https://github.com/KernSTallett))
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
 - Denny Trebbin ([@fibric](https://github.com/fibric))
 - Timo Weiß ([@timoweiss](https://github.com/timoweiss))
