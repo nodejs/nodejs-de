@@ -1,5 +1,7 @@
 # iojs, in Deutsch!
 
+[![Join the chat at https://gitter.im/iojs/iojs-de](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-de?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Deutsche Lokalisierung für [io.js](http://iojs.org)
 
 ## iojs, in Deutsch, auf Social Media
