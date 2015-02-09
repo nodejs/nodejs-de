@@ -20,3 +20,8 @@ Deutsche Lokalisierung für [io.js](http://iojs.org)
 - Timo Weiß ([@timoweiss](https://github.com/timoweiss))
 - Manuel Bauer ([@ManuelBauer](https://github.com/ManuelBauer))
 - Michael Knoch ([@michaelknoch](https://github.com/michaelknoch))
+
+
+## Lizenz
+
+- MIT
