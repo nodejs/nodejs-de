@@ -5,7 +5,7 @@
 Deutsche Lokalisierung für [Node.js](https://nodejs.org)
 
 
-## Deutsches io.js-Team
+## Deutsches Node.js-Team
 
 - Frederic Hemberger ([@fhemberger](https://github.com/fhemberger))
 - Jona H. ([@schisma](https://github.com/schisma))
