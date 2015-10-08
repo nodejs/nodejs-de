@@ -13,7 +13,7 @@ Deutsche Lokalisierung für [io.js](http://iojs.org)
 ## Deutsches io.js-Team
 
 - Frederic Hemberger ([@fhemberger](https://github.com/fhemberger))
-- Jona H. ([@ix](https://github.com/ix))
+- Jona H. ([@schisma](https://github.com/schisma))
 - Kern Tallett ([@KernSTallett](https://github.com/KernSTallett))
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
 - Denny Trebbin ([@fibric](https://github.com/fibric))
