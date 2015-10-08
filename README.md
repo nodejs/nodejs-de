@@ -1,13 +1,8 @@
-# io.js, auf Deutsch!
+# Node.js, auf Deutsch!
 
-[![Join the chat at https://gitter.im/iojs/iojs-de](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-de?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/nodejs/nodejs-de](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodejs/nodejs-de)
 
-Deutsche Lokalisierung für [io.js](http://iojs.org)
-
-
-## Deutschsprachige News zu io.js
-
-- [Twitter](https://twitter.com/iojs_de)
+Deutsche Lokalisierung für [Node.js](https://nodejs.org)
 
 
 ## Deutsches io.js-Team
