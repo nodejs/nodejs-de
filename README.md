@@ -8,7 +8,7 @@ Deutsche Lokalisierung für [Node.js](https://nodejs.org)
 ## Deutsches Node.js-Team
 
 - Frederic Hemberger ([@fhemberger](https://github.com/fhemberger))
-- Jona H. ([@Lac](https://github.com/Lac))
+- fen ([@fene](https://github.com/fene))
 - Kern Tallett ([@KernSTallett](https://github.com/KernSTallett))
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
 - Denny Trebbin ([@fibric](https://github.com/fibric))
