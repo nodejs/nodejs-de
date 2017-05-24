@@ -15,7 +15,7 @@ Deutsche Lokalisierung für [Node.js](https://nodejs.org)
 - Timo Weiß ([@timoweiss](https://github.com/timoweiss))
 - Manuel Bauer ([@ManuelBauer](https://github.com/ManuelBauer))
 - Michael Knoch ([@michaelknoch](https://github.com/michaelknoch))
-- Anton Wilhelm ([@timaschew] (https://github.com/timaschew))
+- Anton Wilhelm ([@timaschew](https://github.com/timaschew))
 
 
 ## Lizenz
