@@ -3,7 +3,7 @@
 Deutsche Lokalisierung für [Node.js](https://nodejs.org)
 
 > Momentan ruht die deutsche Übersetzungsarbeit.  
-> _EN: The German localizarion is currently in hibernation._
+> _EN: The German localization is currently in hibernation._
 
 ## Bisherige deutsche Node.js-Übersetzer
 
