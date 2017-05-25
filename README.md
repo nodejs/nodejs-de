@@ -1,14 +1,13 @@
 # Node.js, auf Deutsch!
 
-[![Join the chat at https://gitter.im/nodejs/nodejs-de](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodejs/nodejs-de)
-
 Deutsche Lokalisierung für [Node.js](https://nodejs.org)
 
+> Momentan ruht die deutsche Übersetzungsarbeit.  
+> _EN: The German localizarion is currently in hibernation._
 
-## Deutsches Node.js-Team
+## Bisherige deutsche Node.js-Übersetzer
 
 - Frederic Hemberger ([@fhemberger](https://github.com/fhemberger))
-- fen ([@fene](https://github.com/fene))
 - Kern Tallett ([@KernSTallett](https://github.com/KernSTallett))
 - Alexander Zeitler ([@AlexZeitler](https://github.com/AlexZeitler))
 - Denny Trebbin ([@fibric](https://github.com/fibric))
